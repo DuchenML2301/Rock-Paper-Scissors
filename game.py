@@ -57,7 +57,6 @@ while True:
 			pScore = pScore + 1
 	#compaire for player entering s
 	elif pChoice == "s":
-		pass
 		print(pName +" Picked Rock")
 		# if computer is r
 		if cChoice == "r":
@@ -76,7 +75,6 @@ while True:
 			ties = ties + 1
 	#compaire for player entering p
 	elif pChoice == "p":
-		pass
 		print(pName +" Picked Rock")
 		# if computer is r
 		if cChoice == "r":
