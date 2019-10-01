@@ -1,5 +1,6 @@
 # Mackenzie Duchen
 # Rock Paper Scissors
+#added a comment
 #VARIABLES
 import random
 
@@ -93,3 +94,6 @@ while True:
 			print("scissors cuts paper")
 			cScore = cScore + 1
 	# deal with player entering something else
+elif pChoice == "random":
+	print("Listen to directions")
+print("Have a nice day!")
